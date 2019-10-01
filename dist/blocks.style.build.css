@@ -1,0 +1,16 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+.wp-block-bengal-studio-steps {
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  display: block; }
